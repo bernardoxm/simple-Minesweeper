@@ -1,0 +1,6 @@
+class ExplosaoException implements Exception {
+
+
+
+
+}
